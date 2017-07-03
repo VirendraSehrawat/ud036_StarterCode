@@ -5,7 +5,6 @@ def prepare_data():
     '''
     The movie data store is hard coded here for now. This method returns list of movies
     '''
-    
     sholay = media.Movie("Sholay",
                          "Revenge goes a long way",
                          "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Sholay-poster.jpg/220px-Sholay-poster.jpg",
